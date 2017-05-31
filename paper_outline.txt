@@ -1,0 +1,45 @@
+﻿finite-state transducer for korean coda neutralization
+danny wong + monrelle wilson + hannah chung
+
+
+monrelle: intro
+
+
+* what is our project?
+* why did we choose this project?
+* what should our final product theoretically look like?
+
+
+hannah: korean coda neutralization analysis
+
+
+* what is coda neutralization?
+* where does coda neutralization appear in korean?
+* derivations, etc.
+
+
+monrelle: finite-state transducer explanation
+
+
+* what is a finite-state transducer?
+* why do we use finite-state transducers?
+* how are finite-state transducers helpful for morphological analysis?
+* how does a finite-state transducer work?
+
+
+danny: fst implementation for korean coda neutralization rules
+
+
+* how did we implement our finite-state transducer?
+* what was our process?
+* does our program work?
+* is there any situation in which our program doesn’t work?
+* what problems did we encounter?
+
+
+hannah: conclusion
+
+
+* what could we do better next time?
+* what did we learn from this project?
+* etc.
